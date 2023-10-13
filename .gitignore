@@ -1,2 +1,5 @@
 .env
 .idea
+.gitignore
+db.sqlite3
+./venv
