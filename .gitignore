@@ -3,3 +3,7 @@
 .gitignore
 db.sqlite3
 ./venv
+Authorization.png
+register.png
+overview.png
+informations.png
